@@ -20,5 +20,3 @@ module pc
         end
     end
 endmodule
-
-//andi ori xori slt slti sll srl sra jalr lui
