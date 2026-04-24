@@ -1,1 +1,1 @@
-# singlecycle-riscv-cpu
+# Single Cycle RISC V core
